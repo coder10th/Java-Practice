@@ -10,6 +10,7 @@ public class switchprgrm {
 	{
 		System.out.println("Enter Month");
 		Scanner name= new Scanner(System.in);
+		System.out.println("Test Push");
 		String month=name.nextLine();
 			switch(month)
 		{
@@ -25,4 +26,6 @@ public class switchprgrm {
 		
 	}
 	}
-}
+	
+	}
+
